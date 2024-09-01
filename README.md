@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hatice Akpınar @akpinarhatice
-- 👀 I’m interested in Python/Django and Swift
+- 👀 I’m interested in Python/Django
 - 🌱 I’m currently learning Swift and Django RestAPI
 - 💞️ I’m looking to collaborate on the topics that I am currently learning
 - 📫 How to reach me akpinarhatice2011@hotmail.com
